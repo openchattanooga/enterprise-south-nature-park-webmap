@@ -1,0 +1,14 @@
+.olControlAttribution {
+    background: rgba(255,255,255,0.7)!important;
+    right: 5px!important;
+    bottom: 5px!important;
+    text-align: right!important;
+}
+
+#map {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0
+}
