@@ -23,6 +23,7 @@
         strokeOpacity: 0.5,
         strokeWidth: 4,
         strokeLinecap: "butt",
+        fillOpacity: 0
       }),
       strategies: [fixedStrategy],
       protocol: new OpenLayers.Protocol.HTTP({
